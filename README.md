@@ -15,9 +15,9 @@ Roadmap belajar Data Analyst dari dasar hingga siap kerja, lengkap dengan mini p
 | No | Project | Skill Used | Link |
 |----|---------|------------|------|
 | 1 | Analisis Penjualan Excel | Excel | [Link](#) |
-| 2 | SQL Query AdventureWorks | SQL | [Link](#) |
+| 2 | SQL Query | SQL | [Link](#) |
 | 3 | Dashboard Visualisasi | Looker Studio | [Link](#) |
-| 4 | Python EDA Dataset Titanic | Python | [Link](#) |
+| 4 | Python | Python | [Link](#) |
 
 ## 🔧 3. Tools Digunakan
 - VS Code / Jupyter Notebook
