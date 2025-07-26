@@ -1,6 +1,3 @@
-# data-analyst-roadmap
-Roadmap dan kumpulan mini project untuk menjadi seorang Data Analyst
-
 # 📊 Data Analyst Roadmap & Projects
 
 Roadmap belajar Data Analyst dari dasar hingga siap kerja, lengkap dengan mini project, dataset, dan tools yang digunakan.
