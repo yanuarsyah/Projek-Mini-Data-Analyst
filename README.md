@@ -1,2 +1,39 @@
 # data-analyst-roadmap
 Roadmap dan kumpulan mini project untuk menjadi seorang Data Analyst
+
+# 📊 Data Analyst Roadmap & Projects
+
+Roadmap belajar Data Analyst dari dasar hingga siap kerja, lengkap dengan mini project, dataset, dan tools yang digunakan.
+
+---
+
+## 🔰 1. Basic Skillset
+- [x] Excel (lookup, pivot, basic formula)
+- [x] SQL (SELECT, JOIN, GROUP BY, Subquery)
+- [ ] Python (pandas, numpy, matplotlib)
+- [ ] Data Visualization (Looker Studio / Tableau)
+- [ ] Statistik Dasar
+
+## 🧪 2. Mini Projects
+| No | Project | Skill Used | Link |
+|----|---------|------------|------|
+| 1 | Analisis Penjualan Excel | Excel | [Link](#) |
+| 2 | SQL Query AdventureWorks | SQL | [Link](#) |
+| 3 | Dashboard Visualisasi | Looker Studio | [Link](#) |
+| 4 | Python EDA Dataset Titanic | Python | [Link](#) |
+
+## 🔧 3. Tools Digunakan
+- VS Code / Jupyter Notebook
+- Google Sheets / Excel
+- PostgreSQL / MySQL
+- Python (Anaconda/Colab)
+- Tableau / Looker Studio
+
+## 🧠 4. Tips Belajar
+- Fokus satu tools dulu
+- Coba buat portofolio dari dataset publik (Kaggle, Data.gov)
+- Push semua project ke GitHub
+
+---
+
+> Dibuat oleh [Yanu Arsyah](https://github.com/YanuArsyah) ✨
