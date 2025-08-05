@@ -13,7 +13,7 @@ Roadmap belajar Data Analyst dari dasar hingga siap kerja, lengkap dengan mini p
 
 ## 🧪 2. Mini Projects
 | No | Project | Skill Used | Dataset Used | Link |
-|----|---------|------------|------|
+|----|---------|------------|--------------|------|
 | 1 | Analisis Penjualan Excel | Excel | [Link](#) | [Link](https://github.com/yanuarsyah/Analisis-Penjualan-Excel-) |
 | 2 | SQL Query | SQL | [Link](#) | [Link](#) |
 | 3 | Dashboard Visualisasi | Looker Studio | [Link](#) | [Link](#) |
