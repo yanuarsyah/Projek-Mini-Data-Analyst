@@ -5,11 +5,11 @@ Roadmap belajar Data Analyst dari dasar hingga siap kerja, lengkap dengan mini p
 ---
 
 ## 🔰 1. Basic Skillset
-- [x] Excel (lookup, pivot, basic formula)
-- [x] SQL (SELECT, JOIN, GROUP BY, Subquery)
-- [ ] Python (pandas, numpy, matplotlib)
-- [ ] Data Visualization (Looker Studio / Tableau)
-- [ ] Statistik Dasar
+- [x] Excel
+- [x] SQL
+- [x] Python
+- [x] Data Visualization (Looker Studio / Tableau)
+- [x] Statistik Dasar
 
 ## 🧪 2. Mini Projects
 | No | Project | Skill Used | Link |
