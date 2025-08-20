@@ -14,7 +14,7 @@ Roadmap belajar Data Analyst dari dasar hingga siap kerja, lengkap dengan mini p
 | No | Project | Skill Used | Dataset Used | Link |
 |----|---------|------------|--------------|------|
 | 1 | Product Sales Region Dashboard | Excel | [Link](https://excelx.com/practice-data/sales-retail/) | [Link](https://github.com/yanuarsyah/Product-Sales-Region-Dashboard-Data-Analyst-) |
-| 2 | Music Data Analysis | SQL | [Link](#) | [Link](https://github.com/yanuarsyah/Music-Data-Analyst) |
+| 2 | Music Data Analysis | SQL | [Link](https://www.kaggle.com/datasets/rohitgrewal/spotify-youtube-data/data) | [Link](https://github.com/yanuarsyah/Music-Data-Analyst) |
 | 3 | Dashboard Visualisasi | Looker Studio | [Link](#) | [Link](#) |
 | 4 | Python | Python | [Link](#) | [Link](#) |
 
