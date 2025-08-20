@@ -1,8 +1,4 @@
-# 📊 Data Analyst Roadmap & Projects
-
-Roadmap belajar Data Analyst dari dasar hingga siap kerja, lengkap dengan mini project, dataset, dan tools yang digunakan.
-
----
+# 📊 Data Analyst Roadmap & Projects Mini
 
 ## 🔰 1. Basic Skillset
 - [x] Excel
