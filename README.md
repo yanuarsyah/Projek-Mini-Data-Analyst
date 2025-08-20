@@ -20,7 +20,7 @@
 - Google Sheets / Excel
 - PostgreSQL / MySQL
 - Python (Anaconda/Colab)
-- Tableau / Looker Studio
+- Looker Studio
 
 ## 🧠 4. Tips Belajar
 - Fokus satu tools dulu
