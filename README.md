@@ -17,7 +17,7 @@
 
 ## 🔧 3. Tools Digunakan
 - VS Code / Jupyter Notebook
-- Google Sheets / Excel
+- Excel
 - PostgreSQL / SQL
 - Python (Anaconda/Colab)
 - Looker Studio
