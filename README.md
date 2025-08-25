@@ -1,4 +1,4 @@
-# 📊 Data Analyst Roadmap & Projects Mini
+# 📊 Projects Mini Data Analyst 
 
 ## 🔰 1. Basic Skillset
 - [x] Excel
