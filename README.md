@@ -16,10 +16,9 @@
 | 4 | Python | Python | [Link](#) | [Link](#) |
 
 ## 🔧 3. Tools Digunakan
-- VS Code / Jupyter Notebook
 - Excel
 - PostgreSQL / SQL
-- Python (Anaconda/Colab)
+- Python
 - Looker Studio
  
 ## 🧠 4. Tips Belajar
